@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I’m currently working at the University of St Andrews (UK) as a Postodcoral Researcher, focusing on [ice-ocean interactions in Greenland fjords](https://glaciology.wp.st-andrews.ac.uk/projects/fjordmix). My main research interests are:
+
+- 💻 numerical modelling
+- ❄️ 🏔️ glaciology (both modern and paleo time scales)
+- 🌊 ❄️ ice-ocean interactions
+- 🏔️ 💻 🌊 bridging the gap between the modelling and "empirical" communities, no matter the time scale, ice sheet, or whether it's on- or off-shore!
+
+I have been going back and forth between Matlab and Python for the last 10 years, mainly for reasons beyond my control...
+
+[My ORCID profile](https://orcid.org/0000-0002-4843-1876)
