@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Palaeo Ice Sheet Modeller at the British Antarctic Survey
 
-
-I’m currently working at the University of St Andrews (UK) as a Postodcoral Researcher, focusing on [ice-ocean interactions in Greenland fjords](https://glaciology.wp.st-andrews.ac.uk/projects/fjordmix). My main research interests are:
+I have previously worked at the University of St Andrews (UK) as a Postodcoral Researcher, focusing on [ice-ocean interactions in Greenland fjords](https://glaciology.wp.st-andrews.ac.uk/projects/fjordmix). My main research interests are:
 
 - 💻 numerical modelling
 - ❄️ 🏔️ glaciology (both modern and paleo time scales)
